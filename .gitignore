@@ -1,0 +1,10 @@
+# system
+.DS_Store
+
+# VScode
+.vscode/
+
+# complied
+*.o
+*.out
+*.exe
