@@ -6,6 +6,7 @@
 
 ## Preview
 <img src="assets/demo.gif" width="500" alt="Snake Game Demo">
+
 > You may need to adjust the terminal size.
 
 ## QuickStart
