@@ -4,8 +4,8 @@
 
 **c-snake-terminal** is a classic snake game implemented in C, designed for macOS/Linux environments, running directly in the Terminal/Console.
 
-## preview
-![Game Demo](assets/demo.gif)
+## Preview
+<img src="assets/demo.gif" width="500" alt="Snake Game Demo">
 > You may need to adjust the terminal size.
 
 ## QuickStart
